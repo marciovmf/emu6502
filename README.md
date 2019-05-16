@@ -1,2 +1,2 @@
 # emu6502
-A 6502 instruction set writen in x86 assembly
+A 6502 microprocessor instruction set emulator writen in x86 assembly
